@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A short history of the convention: or, New christned Parliament.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B29783</idno><idno type="EEBO-CITATION">99885302</idno>
+  <idno type="VID">185846</idno>
+  <idno type="EEBO-PROQUEST">2264214636</idno>
+  
+            <idno type="STC">Wing S3600</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.1[9]</idno>
+            <idno type="STC">ESTC R221612</idno>
+            <idno type="PROQUEST">ocm99885302</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885302e"/>
+            <note>(EEBO-TCP ; phase 2, no. B29783)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185846)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C3:1[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A short history of the convention: or, New christned Parliament.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1689?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Parliament --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:185846:1"/>
+            <head>A SHORT HISTORY OF THE CONVENTION. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>R, NE<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Christned Parliament.</head>
+            <p>I Shall not entertain the World with shewing how Unwarrantably it was cal<g ref="char:EOLhyphen"/>led, and how Irregularly many of its Members were Chosen; but shall leave its Birth and Infancy, and begin my Reflections where that has begun to Act in its politick Capacity. This Convention or Knot of Men, tho' we with so great reason railed at Regulation, both in the Reigns of King <hi>James</hi> and King <hi>Charles</hi> II. must pick out a Speaker Elected upon a Regulation. I am not willing to add, that He was recommended to <hi>Windsor</hi> by the Duke of <hi>Norfolk;</hi> for then I must o<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ct against the many others recommended by that Duke, my L. <hi>Lovelace,</hi> &amp;c. <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>en inconsistent with the Essence of an <hi>English Free-chosen</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> intermedle with the Elections but that which I here <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ly it was, that we should be re-instated in our Liberties <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> who made so false a step at their very Entrance upon so great a Work: But let us go forward and see whether they have not Established our Religion, and Protected our Liberties by Acts suitable to this. Into our Religion they have Introduc'd the Doctrine of <hi>Deposing Princes, breaking Faith with Hereticks, Absolving Subjects from their Allegiance,</hi> and into our Politicks, <hi>Elective Monarchy,</hi> a Civil Transubstantion by a <hi>Hoc est Parliamentum, A Suspension of Oathes and Tests,</hi> and of the <hi>Habeas Corpus</hi> Act into the bargain; and in exchange for these, they will settle a Martial Law to Execute Soldiers: In good Faith when I reflect upon these things, how foolish, and how <hi>Popish,</hi> these Councels are; I fear Father <hi>Peters,</hi> by a certain communication of Spirit, is got into our Senate House, and Actuates most that are there. To speak very seriously, I fear, that as in the Usurpers days, some secret Priests put the People upon those evil Practices, which all Parties were willing to disown; every Body repented <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ch we kept an <hi>Anniversary Fast;</hi> so I say, I fear as <hi>Protestant</hi> a<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Men <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>o be, they are blown into these Measures by some that wish not well to our <hi>Sio</hi> that they may affix thereto an indelible <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eproach; <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> I cou<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> wish, th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> both for the Honour and Security of the <hi>Protestant Religion</hi> these Conventioners, and the Prince of <hi>Orange</hi> himself would consider how much they have defac'd the Purity of it, and that they would both joyn together, out of a sense of their Sin, to recal our Rightful King, and that with Repentance and Humiliation, with Fasting, Supplication and Tears, we may be reconciled to our God; and so dissipate that Cloud, and avoid that impending storm of Blood and Violence that seems to Threaten almost the whole Christian World. King <hi>James</hi> restored by the <hi>Protestants,</hi> must pursue <hi>Protestant Measures,</hi> and strike in with the <hi>English Genius</hi> and <hi>Interest,</hi> and would thereby be enabled to give Laws to <hi>Europe,</hi> and adjust the Differences thereof, and so settle its <hi>Peace,</hi> and promote its Welfare; but alas, how weak will this Nation be, how miserable
+<pb facs="tcp:185846:2"/> upon our new Foundations? When those pretend to Legislation that have no right to it, the Consciences of brave and honest Subjects will not yeild Obedience; the Consciences of weaker Men will be Ensnared, and those who have no Conscience at all themselves prescribe to others. It is plain by the Contest, as well in the lower as the upper House, that <hi>Abdication and Vacancy</hi> was not the Sense of the Church of <hi>England;</hi> and though some Church of <hi>England</hi> Divines, nay though the <hi>Bishops</hi> themselves should write that we were Absolv'd from our Allegiance; we who believe no Infallibility, should think these Opinions proceeded from Fear, or Ambition rather then Judgment <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> should pitty the Infirmities and Weak<g ref="char:EOLhyphen"/>nesses of Men, but protest against D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ctrines▪. To what Divisions have these Conventioners brought us? Wha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ded Kingdom do? How long can it stand? God knows my intended Satyr to<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>oon and too justly ends in Lamenta<g ref="char:EOLhyphen"/>tion. I would have the Prince of <hi>Orange,</hi> as well as the Conventioners know, that our Eyes are more and more open, that the Nation suffers under a Convulsive Ago<g ref="char:EOLhyphen"/>ny, by reason of the late <hi>Impious steps;</hi> and that we see these Men, who pretend to Settle our Religion, have in complyance with his Desires, broke through the incontestable points of it, and instead of Securing▪ our Liberties, Enslaved us to his Will and Pleasure; that even these people who would be thought a Free Parliament, were Over-awed and Governed by the Prince, and received Instructi<g ref="char:EOLhyphen"/>ons from him and his Creatures after their Country had chose them, is evident to all that recollect how little the Country dream'd of making him King <hi>William</hi> a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the time of their choice; those that had the most abandoned their Loyalty, designed to break through their Duty and our Constitution no farther then Crowning his <hi>Princess;</hi> but a little before there sitting, out comes a Pamphlet, writ by tha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Conscientious Reformer of Church and State, that Herauld of hi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Highness hi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Mind, the Worthy Mr. <hi>Ferguson,</hi> whic<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to persw<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>le how muc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> more it was for their Interest to choo<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ntio<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> changed their Notes, and those of <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ld not <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Bullied b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Prince, as Sir <hi>Ed. Sey.</hi> of the <hi>West,</hi> &amp;c. or by my Lord <hi>De<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi> as <hi>Hall.</hi> and indee<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> both Houses by my Lord <hi>Lov.</hi> with his <hi>Posse Mobilitatis,</hi> with this sort of free Con<g ref="char:EOLhyphen"/>ference, this sort of Parliamentary Liberty of Speech, the King is laid aside, with out any of his charged Faults prov'd upon him, and the Government changed into Elective, that they might reward the Prince for driving away our King; this is th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Justice, this the Spirit, this the Religion of these Men, these are our <hi>Liberatores Popul Anglica<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> these our <hi>Protectores Religion<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s Protestantium.</hi> To conclude in a word, would have Them and the Prince too know, that there are in the Nation a Peopl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Numerous enough, and as far from <hi>Popery,</hi> as this Convention or Knot can be, wh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> can neither be Brib'd by Places, no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Pensions; and who have no Malice against th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Person of his Father in Law, though they misliked some Male-Administrations; tha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> can and will make a Noble Attempt to rescue us from this Bondage, restore us to our Antient Constitution, and shake <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> one, having Truth, Justic<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and God on <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heir side.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
